@@ -11,5 +11,5 @@ Nr | Onderdeel | Weging
 3. | iOS final assignment: | cijfer, telt 33% mee
 4. | Android assignment:  | cijfer, telt 33% mee
 6. | Git: geef inzicht in je werkwijze | vink
-7. 
+
 ## Lesplanning 
