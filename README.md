@@ -13,3 +13,15 @@ Nr | Onderdeel | Weging
 6. | Git: geef inzicht in je werkwijze | vink
 
 ## Lesplanning 
+OW | day 1 | day 2
+-----|------|------
+4-1 |  | 
+4-2 |  | 
+--- | Spring Break | Spring Break
+4-3 |  |  
+4-4 |  | 
+4-5 |  |
+4-6 |  |
+4-7 |  | 
+4-8 |  | 
+4-9 | 
