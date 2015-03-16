@@ -15,13 +15,13 @@ Nr | Onderdeel | Weging
 ## Lesplanning 
 OW | day 1 | day 2
 -----|------|------
-4-1 |  | 
-4-2 |  | 
+4-1 | Android  | iOS 
+4-2 | Android | iOS
 --- | May Break | May Break
-4-3 |  |  
-4-4 |  | 
-4-5 |  |
-4-6 |  |
+4-3 | Android | iOS 
+4-4 | Android | iOS
+4-5 | iOS | iOS
+4-6 | iOS | iOS <br> Deadline Onderzoeksrapport
 4-7 |  | 
 4-8 |  | 
 4-9 | 
