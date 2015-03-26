@@ -24,4 +24,4 @@ OW | maandag | dinsdag
 4-6 | 25 mei <br> Vrij vanwege pinkesteren | 28 mei <br> Session 9: iOS <br> Stanford lecture 14: Core Location and MapKit <br> __*Deadline Onderzoeksrapport*__
 4-7 | 1 juni <br> Session 10: iOS <br> Stanford lecture 15: Modal Segues | 4 juni <br> Session 11: iOS <br> Stanford lecture 16: Camera, Persistence, and Embed Segues
 4-8 | 8 juni <br> Session 12: iOS <br> Stanford lecture 17: | 11 juni <br> Session 13: iOS <br> Stanford lecture 18:
-4-9 | Gedurende de week: <br> __*Assessment iOS final assignment* en *Android assignment: N-Puzzle 2*__
+4-9 | Gedurende de week: <br> *__Assessment iOS final assignment__ en __Android assignment: N-Puzzle 2__*
