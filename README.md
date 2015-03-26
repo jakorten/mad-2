@@ -15,13 +15,13 @@ Nr | Onderdeel | Weging
 ## Lesplanning 
 OW | maandag | dinsdag
 -----|------|------
-4-1 | 13 april <br> Session 1: iOS <br> Stanford lecture 10:  | 16 april <br> Session 2: Android <br>
-4-2 | 20 april <br> Session 3: iOS <br> Stanford lecture 11: | 23 april <br> Session 4: Android <br>
+4-1 | 13 april <br> Session 1: iOS <br> Stanford lecture 10: Table View  | 16 april <br> Session 2: Android <br>
+4-2 | 20 april <br> Session 3: iOS <br> Stanford lecture 11: Unwind Segues, Alerts, Timers, View Animation| 23 april <br> Session 4: Android <br>
 4-3 | 27 april <br> Vrij vanwege koningsdag| 30 april <br> Session 5: Android <br> 
 --- | Meivakantie | Meivakantie
-4-4 | 11 mei <br> Session 6: iOS <br> Stanford lecture 12: | 14 mei <br> Vrij vanwege hemelvaart
-4-5 | 18 mei <br> Session 7: iOS <br> Stanford lecture 13: | 21 mei <br> Session 8: Android <br>
-4-6 | 25 mei <br> Vrij vanwege pinkesteren | 28 mei <br> Session 9: iOS <br> Stanford lecture 14: <br> __*Deadline Onderzoeksrapport*__
-4-7 | 1 juni <br> Session 10: iOS <br> Stanford lecture 15: | 4 juni <br> Session 11: iOS <br> Stanford lecture 16:
+4-4 | 11 mei <br> Session 6: iOS <br> Stanford lecture 12: Dynamic Animation | 14 mei <br> Vrij vanwege hemelvaart
+4-5 | 18 mei <br> Session 7: iOS <br> Stanford lecture 13: Application Lifecycle and Core Motion | 21 mei <br> Session 8: Android <br>
+4-6 | 25 mei <br> Vrij vanwege pinkesteren | 28 mei <br> Session 9: iOS <br> Stanford lecture 14: Core Location and MapKit <br> __*Deadline Onderzoeksrapport*__
+4-7 | 1 juni <br> Session 10: iOS <br> Stanford lecture 15: Modal Segues | 4 juni <br> Session 11: iOS <br> Stanford lecture 16: Camera, Persistence, and Embed Segues
 4-8 | 8 juni <br> Session 12: iOS <br> Stanford lecture 17: | 11 juni <br> Session 13: iOS <br> Stanford lecture 18:
 4-9 | 
