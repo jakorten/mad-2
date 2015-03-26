@@ -9,7 +9,7 @@ Nr | Onderdeel | Weging
 1. | iOS assignment 5: Programming Project 4 | vink
 2. | iOS assignment 6: Programming Project 5   | cijfer, telt 33% mee
 3. | iOS final assignment: | cijfer, telt 33% mee
-4. | Android assignment:  | cijfer, telt 33% mee
+4. | Android assignment:  N-Puzzle 2 | cijfer, telt 33% mee
 6. | Git: geef inzicht in je werkwijze | vink
 
 ## Lesplanning 
@@ -24,4 +24,4 @@ OW | maandag | dinsdag
 4-6 | 25 mei <br> Vrij vanwege pinkesteren | 28 mei <br> Session 9: iOS <br> Stanford lecture 14: Core Location and MapKit <br> __*Deadline Onderzoeksrapport*__
 4-7 | 1 juni <br> Session 10: iOS <br> Stanford lecture 15: Modal Segues | 4 juni <br> Session 11: iOS <br> Stanford lecture 16: Camera, Persistence, and Embed Segues
 4-8 | 8 juni <br> Session 12: iOS <br> Stanford lecture 17: | 11 juni <br> Session 13: iOS <br> Stanford lecture 18:
-4-9 | 
+4-9 | Gedurende de week: <br> __*Assessment iOS final assignment* en *Android assignment: N-Puzzle 2*__
