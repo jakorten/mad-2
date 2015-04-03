@@ -6,8 +6,8 @@ In deze cursus zetten we de Stanford cursus over iOS voort, en maken ‘m af. Da
 
 Nr | Onderdeel | Weging
 ---| --- | ---
-1. | iOS assignment 5: Programming Project 4 Animation | vink
-2. | iOS assignment 6: Programming Project 5 Smashtag Mentions   | cijfer, telt 33% mee
+1. | iOS assignment 5: Programming Project 4 Smashtag Mentions | vink
+2. | iOS assignment 6: Programming Project 5 Animation   | cijfer, telt 33% mee
 3. | iOS  assignment: | cijfer, telt 33% mee
 4. | Android final assignment:  N-Puzzle 2 | cijfer, telt 33% mee
 6. | Git: geef inzicht in je werkwijze | vink
