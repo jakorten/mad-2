@@ -13,7 +13,7 @@ Nr | Onderdeel | Weging
 6. | Git: geef inzicht in je werkwijze | vink
 
 ## Lesplanning 
-OW | maandag | dinsdag
+OW | maandag | donderdag
 -----|------|------
 4-1 | 13 april <br> Session 1: iOS <br> Stanford lecture 10: Table View  | 16 april <br> Session 2: Android <br> Fragments & Storage
 4-2 | 20 april <br> Session 3: iOS <br> Stanford lecture 11: Unwind Segues, Alerts, Timers, View Animation| 23 april <br> Session 4: Android <br> Network & Multithreading
