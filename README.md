@@ -23,5 +23,5 @@ OW | maandag | donderdag
 4-5 | 18 mei <br> Session 7: iOS <br> Stanford lecture 13: Application Lifecycle and Core Motion <br> **_Functioneel Ontwerp iOS final assignment laten goedkeuren_**| 21 mei <br> Session 8: Android <br> Sensor & Location
 4-6 | 25 mei <br> Vrij vanwege pinkesteren | 28 mei <br> Session 9: iOS <br> Stanford lecture 14: Core Location and MapKit <br> __*Deadline Onderzoeksrapport*__
 4-7 | 1 juni <br> Session 10: iOS <br> Stanford lecture 15: Modal Segues | 4 juni <br> Session 11: iOS <br> Stanford lecture 16: Camera, Persistence, and Embed Segues
-4-8 | 8 juni <br> Session 12: iOS <br> Stanford lecture 17: | 11 juni <br> Session 13: iOS <br> Stanford lecture 18:
+4-8 | 8 juni <br> Session 12: iOS <br> Stanford lecture 17: Internationalization and Settings | 11 juni <br> Session 13: iOS <br> Stanford lecture 18:
 4-9 | Gedurende de week: <br> *__Assessment iOS final assignment__ en __Android assignment: N-Puzzle 2__*
