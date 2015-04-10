@@ -52,9 +52,12 @@ Nieuwe spelregel: voel je vrij om je te laten inspireren door StackOverflow, de 
 Guides of ander online materiaal. Maar geef bij je antwoord altijd aan of je het:
 
 a. zelf verzonnen hebt,
-a. zelf bedacht, maar samen met een klasgenoot (wie?),
-a. van een online bron hebt (welke?),
-a. of een combinatie daarvan.
+
+b. zelf bedacht, maar samen met een klasgenoot (wie?),
+
+c. van een online bron hebt (welke?),
+
+d. of een combinatie daarvan.
 
 Mail je antwoorden op deze vragen naar naar 
 
