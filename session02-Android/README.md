@@ -59,7 +59,8 @@ c. van een online bron hebt (welke?),
 
 d. of een combinatie daarvan.
 
-Mail je antwoorden op deze vragen naar naar 
+Mail je antwoorden op deze vragen naar minor.mobileappdev@gmail.com,
+met in de subject “Les 2.1 game state antwoorden”.
 
 ## Voorbereiding 3: bedenk een multiplayer n-Puzzle
 
