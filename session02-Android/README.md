@@ -1,4 +1,4 @@
-# Session 2 Android - Fragments & Storage (NOG NIET AF)
+# Session 2 Android - Fragments & Storage
 
 Nu we de Lynda cursus af hebben, stappen we over op het videomateriaal van een MOOC van de 
 universiteit van Maryland: Programming Mobile Applications for Android Handheld Systems. 
@@ -30,7 +30,7 @@ We gebruiken nu de kijkvragen die verwerkt zitten in de video’s (als je ze op 
 Toch wil ik zien dat je ze gemaakt hebt, dus de opdracht is om je antwoorden toch in te sturen 
 via het onderstaande Google Form:
 
-[TODO](TODO)
+[http://goo.gl/forms/YjMWhNU5sw](http://goo.gl/forms/YjMWhNU5sw)
 
 ## Voorbereiding 2: game state opslaan in n-Puzzle
 
