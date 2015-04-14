@@ -2,7 +2,8 @@
 
 Nu we de Lynda cursus af hebben, stappen we over op het videomateriaal van een MOOC van de 
 universiteit van Maryland: Programming Mobile Applications for Android Handheld Systems. 
-Daarvan zijn wij vooral geïnteresseerd in de pagina met de video’s.
+Daarvan zijn wij vooral geïnteresseerd in de pagina met de video’s: 
+[https://class.coursera.org/android-001/lecture](https://class.coursera.org/android-001/lecture)
 
 ## Voorbereiding 1: video’s kijken
 
